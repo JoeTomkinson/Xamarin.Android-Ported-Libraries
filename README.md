@@ -1,8 +1,8 @@
-# Xamarin-Android-Ported-Libraries
+# Xamarin Android Ported Libraries
 [![platform](https://img.shields.io/badge/platform-Xamarin.Android-brightgreen.svg)](https://www.xamarin.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Various Android Library Ports to Xamarin.Android.
+Various Android Library Ports to Xamarin.Android. I have attached a preview and the repo links to all of these for ease of use.
 
 ## Showcase View
 
