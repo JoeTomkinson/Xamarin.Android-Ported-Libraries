@@ -34,6 +34,8 @@ _Xamarin.Android Native EasingInterpolator Twenty-eight different easing animati
 
 [Xamarin Easing Interpolator](https://github.com/DigitalSa1nt/Xama.JTPorts.EasingInterpolator)
 
+![img](https://github.com/DigitalSa1nt/Xamarin-Android-Ported-Libraries/blob/master/images/easingdiagram.png?raw=true)
+
 ## Shine Button
 
 _Xamarin.Android Native "Shine Button" control. This is a UI lib for Xamarin Android. Creates 'shining' effects. Initial port from ShineButton by Chad Song_
