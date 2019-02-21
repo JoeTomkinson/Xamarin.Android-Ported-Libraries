@@ -4,6 +4,14 @@
 
 Various Android Library Ports to Xamarin.Android. I have attached a preview and the repo links to all of these for ease of use.
 
+## Explosion View
+
+_Xamarin.Android UI Library port that provides an explosive dust effect for android views._
+
+[Xamarin Android Explosion View](https://github.com/DigitalSa1nt/Xama.JTPorts.ExplosionView)
+
+![!gif](https://github.com/DigitalSa1nt/Xama.JTPorts.ExplosionView/blob/master/images/20190220_122849.gif?raw=true)
+
 ## Showcase View
 
 _Native showcase view. An easy-to-use customizable show case view with circular reveal animation_
@@ -49,12 +57,6 @@ _Animated ripple background for Xamarin.Android Ported from a Java library. You 
 [Xamarin Android Ripple Background](https://github.com/DigitalSa1nt/Xama.JTPorts.RippleBackground)
 
 ![!gif](https://github.com/DigitalSa1nt/Xama.JTPorts.RippleBackground/blob/master/images/20190217_220639.gif?raw=true)
-
-## Explosion View
-
-[Xamarin Android Explosion View](https://github.com/DigitalSa1nt/Xama.JTPorts.ExplosionView)
-
-
 
 
 
