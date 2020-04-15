@@ -4,6 +4,15 @@
 
 Various Android Library Ports to Xamarin.Android. I have attached a preview and the repo links to all of these for ease of use.
 
+# Nuget Links
+
+[![1](https://raw.githubusercontent.com/DigitalSa1nt/Xamarin-Android-Ported-Libraries/master/images/1.png)](https://www.nuget.org/packages/Xama.JTPorts.AnimatedCircleLoadingView/)[![2](https://raw.githubusercontent.com/DigitalSa1nt/Xamarin-Android-Ported-Libraries/master/images/2.png)](https://www.nuget.org/packages/Xama.JTPorts.ExplosionView/)[![3](https://raw.githubusercontent.com/DigitalSa1nt/Xamarin-Android-Ported-Libraries/master/images/3.png)](https://www.nuget.org/packages/Xama.JTPorts.RippleBackground/)[![4](https://raw.githubusercontent.com/DigitalSa1nt/Xamarin-Android-Ported-Libraries/master/images/4.png)](https://www.nuget.org/packages/Xama.JTPorts.ShineButton/)[![5](https://raw.githubusercontent.com/DigitalSa1nt/Xamarin-Android-Ported-Libraries/master/images/5.png)](https://www.nuget.org/packages/Xama.JTPorts.EasingInterpolator/)[![6](https://raw.githubusercontent.com/DigitalSa1nt/Xamarin-Android-Ported-Libraries/master/images/6.png)](https://www.nuget.org/packages/Xama.JTPorts.ShowcaseView/)[![7](https://raw.githubusercontent.com/DigitalSa1nt/Xamarin-Android-Ported-Libraries/master/images/7.png)](https://www.nuget.org/packages/Xama.JTPorts.ShapedView/)[![8](https://raw.githubusercontent.com/DigitalSa1nt/Xamarin-Android-Ported-Libraries/master/images/8.png)](https://www.nuget.org/packages/Xama.JTPorts.MaterialTextField/)
+
+
+# Libraries
+
+Brief descriptions and example images.
+
 ## Explosion View
 
 _Xamarin.Android UI Library port that provides an explosive dust effect for android views._
