@@ -72,7 +72,8 @@ _Animated ripple background for Xamarin.Android Ported from a Java library. You 
 
 # Support 💎
 
-If you want to support the work that I do and you find any of these libraries useful? Consider supporting it by joining [**stargazers**](https://github.com/DigitalSa1nt//Xamarin-Android-Ported-Libraries/stargazers) for this repository ⭐️
+If you want to support the work that I do and you find any of these libraries useful? Consider supporting it by joining [**stargazers**](https://github.com/DigitalSa1nt//Xamarin-Android-Ported-Libraries/stargazers) for this repository. :telescope: :stars:
+
 <br/>
 
 or alternatively if you want to you can also buy me a coffee.
